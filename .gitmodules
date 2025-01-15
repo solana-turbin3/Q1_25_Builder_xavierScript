@@ -1,0 +1,9 @@
+[submodule "Q1_25_Prereqs_Rust"]
+	path = Q1_25_Prereqs_Rust
+	url = https://github.com/xavierScript/Q1_25_Prereqs_Rust.git
+[submodule "Q1_25_Prereqs_Typescript"]
+	path = Q1_25_Prereqs_Typescript
+	url = https://github.com/xavierScript/Q1_25_Prereqs_Typescript.git
+[submodule "Q1_25_Solana_Starter"]
+	path = Q1_25_Solana_Starter
+	url = https://github.com/xavierScript/Q1_25_Solana_Starter.git
