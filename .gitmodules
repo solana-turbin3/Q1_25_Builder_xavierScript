@@ -7,3 +7,6 @@
 [submodule "Q1_25_Solana_Starter"]
 	path = Q1_25_Solana_Starter
 	url = https://github.com/xavierScript/Q1_25_Solana_Starter.git
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = https://github.com/xavierScript/anchor-vault.git
