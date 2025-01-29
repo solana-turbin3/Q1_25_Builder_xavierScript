@@ -10,3 +10,6 @@
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = https://github.com/xavierScript/anchor-vault.git
+[submodule "anchor-marketplace"]
+	path = anchor-marketplace
+	url = https://github.com/xavierScript/Q1_25_Anchor_Marketplace.git
