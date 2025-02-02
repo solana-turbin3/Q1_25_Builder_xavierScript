@@ -13,3 +13,6 @@
 [submodule "anchor-marketplace"]
 	path = anchor-marketplace
 	url = https://github.com/xavierScript/Q1_25_Anchor_Marketplace.git
+[submodule "nft-staking"]
+	path = nft-staking
+	url = https://github.com/xavierScript/Q1_25_NFT_Staking.git
