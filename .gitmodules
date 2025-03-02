@@ -22,3 +22,6 @@
 [submodule "Q1_25_Capstone"]
 	path = Q1_25_Capstone
 	url = https://github.com/xavierScript/Q1_25_Capstone.git
+[submodule "Q1_25_AMM"]
+	path = Q1_25_AMM
+	url = https://github.com/xavierScript/Q1_25_AMM.git
