@@ -19,6 +19,3 @@
 [submodule "anchor-escrow"]
 	path = anchor-escrow
 	url = https://github.com/xavierScript/Q1_25_escrow.git
-[submodule "capstone"]
-	path = capstone
-	url = https://github.com/xavierScript/Q1_25_Capstone.git
